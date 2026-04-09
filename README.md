@@ -1,4 +1,4 @@
-# PS DiabetesApp
+# Diabetes Learning App Gluco
 
 A native iOS companion app for people living with Type 1 Diabetes (T1D). Built with SwiftUI, designed to be friendly, accessible, and educational — not clinical.
 
