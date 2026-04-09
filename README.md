@@ -102,8 +102,6 @@ PS_DiabetesApp/
 
 No external dependencies, no package manager setup required.
 
-> **To test onboarding again:** Go to Settings → Debug → *Onboarding zurücksetzen* (only visible in Debug builds), or reset the simulator via *Device → Erase All Content and Settings*.
-
 ---
 
 ## Notes
