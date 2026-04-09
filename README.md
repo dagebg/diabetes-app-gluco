@@ -109,9 +109,3 @@ No external dependencies, no package manager setup required.
 - **Language:** All user-facing text is in German.
 - **Medical disclaimer:** This app is for educational purposes only and does not replace professional medical advice.
 - **No persistence:** All data is in-memory. Nothing is saved between app launches — this is intentional for the current demo build.
-
----
-
-## License
-
-MIT — see [LICENSE](LICENSE).
