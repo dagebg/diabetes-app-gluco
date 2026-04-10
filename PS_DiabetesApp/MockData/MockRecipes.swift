@@ -31,7 +31,7 @@ enum MockRecipes {
 
         Recipe(
             id: UUID(),
-            title: "Ei & Gemüse Rührei",
+            title: "Gemüse Rührei",
             emoji: "🍳",
             shortDescription: "Ein sättigendes, proteinreiches Frühstück, das dich anhält, ohne den Zucker in die Höhe zu treiben.",
             prepTime: "5 Min.",
