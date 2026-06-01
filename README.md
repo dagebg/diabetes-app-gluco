@@ -6,31 +6,31 @@ A native iOS companion app for people living with Type 1 Diabetes (T1D). Built w
 
 ## Features
 
-### 🏠 Home
+### Home
 - Personalised greeting based on time of day
 - Streak tracker and lesson progress summary
 - Daily tip carousel
 - Quick-access cards to all main sections
 
-### 📚 Learn
+### Learn
 - 20 structured lessons across 3 categories: *Was ist T1D?*, *Alltag*, *Ernährung & Kohlenhydrate*
 - Swipeable page-by-page reader
 - **Language mode switcher** — toggle between easy everyday language and scientific/clinical terminology per lesson
 - Lesson completion tracking
 
-### 🍽️ Recipes
+### Recipes
 - Curated diabetes-friendly recipes with tags, prep times, and servings
 - Full-text search and tag filtering
 - Create custom recipes with emoji, ingredients, and step-by-step instructions
 
-### 📓 Journal
+### Journal
 - Mood-based daily entries (5 moods with emoji)
 - Optional reflection prompts
 - View, edit, and delete entries
 - Swipe-to-delete in the list
 - Entries grouped by month
 
-### ⚙️ Settings
+### Settings
 - Edit profile (name, gender, age)
 - Toggle and schedule daily push notification reminders
 - App version and medical disclaimer
